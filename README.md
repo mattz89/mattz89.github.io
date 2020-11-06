@@ -10,7 +10,7 @@ I started "developing" back in middle school at the end of the school day in "HT
 
 During my time in sales, I went to college and graduated with an Associates Degree in Web Application Development. This lead to my first (and current) 'technical' job as support and QA for KioWare.com.
 ___
-## Featured Project
+## Featured Project:
 ### <a href="https://github.com/mattz89/pricegolem">PriceGolem</a>
 I've been working a lot with Python and SQL databases - and really enjoying it! Currently, I'm hooked on PriceGolem - an application that allows users to create an account, add items to be tracked, and get text notifications when the price drops to their desired 'buy price'. 
 >#Python #Flask #SQLAlchemy #BeautifulSoup4 #TwilioAPI #HTML #CSS
