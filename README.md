@@ -16,4 +16,5 @@ I've been working a lot with Python and SQL databases - and really enjoying it! 
 >#Python #Flask #SQLAlchemy #BeautifulSoup4 #TwilioAPI #HTML #CSS
 
 ![gif-of-pricegolem-web-application](images/pricegolem.gif)
+___
 
