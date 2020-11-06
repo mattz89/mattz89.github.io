@@ -15,5 +15,5 @@ ___
 ### Featured Project
 
 I've been working a lot with Python and SQL databases - and really enjoying it! Currently, I'm hooked on PriceGolem - an application that allows users to create an account, add items to be tracked, and get text notifications when the price drops to their desired 'buy price'. 
-![gif-of-pricegolem-web-application](static/images/pricegolem.gif)
+
 
