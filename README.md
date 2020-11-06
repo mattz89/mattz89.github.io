@@ -1,6 +1,6 @@
 ___
 ## Hi, I'm Matt. Sales Pro Turned Dev.
-### <a href="https://meetmattz.com">meetmattz.com</a>
+### <a href="https://meetmattz.com" target="_blank">meetmattz.com</a>
 <p align='center'>
 
 <a href="https://www.facebook.com/mattzenittini" target="_blank"><img src="images/fb.svg" alt="Facebook Icon" /></a>&nbsp;&nbsp;
@@ -12,5 +12,8 @@ I started "developing" back in middle school at the end of the school day in "HT
 
 During my time in sales, I went to college and graduated with an Associates Degree in Web Application Development. This lead to my first (and current) 'technical' job as support and QA for KioWare.com.
 ___
-### Current Projects
+### Featured Project
+
+I've been working a lot with Python and SQL databases - and really enjoying it! Currently, I'm hooked on PriceGolem - an application that allows users to create an account, add items to be tracked, and get text notifications when the price drops to their desired 'buy price'. 
+![gif-of-pricegolem-web-application](static/images/pricegolem.gif)
 
