@@ -1,5 +1,5 @@
 ___
-##Hi, I'm Matt. Sales Pro Turned Dev.
+## Hi, I'm Matt. Sales Pro Turned Dev.
 <p align='center'>
 
 <a href="https://www.facebook.com/mattzenittini"><img src="images/fb.svg" alt="Facebook Icon" /></a>&nbsp;&nbsp;
@@ -11,5 +11,5 @@ I started "developing" back in middle school at the end of the school day in "HT
 
 During my time in sales, I went to college and graduated with an Associates Degree in Web Application Development. This lead to my first (and current) 'technical' job as support and QA for KioWare.com.
 ___
-###Current Projects
+### Current Projects
 
