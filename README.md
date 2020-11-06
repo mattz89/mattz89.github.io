@@ -9,6 +9,9 @@ ___
 I started "developing" back in middle school at the end of the school day in "HTML Club". After high school, I ended up taking a different path with a full time job selling cars. A few years later, I was selling cable and solar door to door. I ended up selling door to door for the next 5 years.
 
 During my time in sales, I went to college and graduated with an Associates Degree in Web Application Development. This lead to my first (and current) 'technical' job as support and QA for KioWare.com.
+![selfie-in-the-mountains](images/1.jpg)
+![picture-from-our-photobooth](images/2.jpg)
+![Lindsay-llama-myself](images/3.jpg)
 ___
 ## Featured Project:
 ### <a href="https://github.com/mattz89/pricegolem">PriceGolem</a>
